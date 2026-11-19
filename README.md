@@ -34,3 +34,4 @@ Assembly instructions:
 7. Put an MX compatible keycap of choice
 8. Connect to device of choice with a cable ending with a matching JST female header
 
+For more details and screenshots checkout: https://www.printables.com/model/1921783-neokey-mx-switch-breakout-case
